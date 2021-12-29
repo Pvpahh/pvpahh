@@ -4,7 +4,7 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">dylann</a></b>.
-    <br>python'javascript <br>
+    <br>python & lua <br>
 
 </samp>
 
